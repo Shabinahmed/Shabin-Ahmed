@@ -39,6 +39,3 @@ I'm available for remote jobs and freelance projects. Whether it's a full app bu
 - 💬 +92 3458099960
 - 💼 Fiverr: https://www.fiverr.com/shabinahmed
 - 💬 LinkedIn: https://www.linkedin.com/in/shabin-ahmed-a22857365/
-
-- 💼 Fiverr: fiverr.com/yourusername
-- 💬 LinkedIn: linkedin.com/in/yourhandle# Shabin-Ahmed
