@@ -40,6 +40,5 @@ I'm available for remote jobs and freelance projects. Whether it's a full app bu
 - 💼 Fiverr: https://www.fiverr.com/shabinahmed
 - 💬 LinkedIn: https://www.linkedin.com/in/shabin-ahmed-a22857365/
 
-- 📧 your@email.com
 - 💼 Fiverr: fiverr.com/yourusername
 - 💬 LinkedIn: linkedin.com/in/yourhandle# Shabin-Ahmed
