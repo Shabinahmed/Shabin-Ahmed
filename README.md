@@ -20,7 +20,7 @@ Full fitness tracking app with user auth, workout logging, and real-time data sy
 ### News App `REST API`
 Live news feed app pulling from a public API — category filtering, article detail view, clean card-based UI.
 
-### To-Do App-Flutter 
+### To-Do App-Flutter `REST API` 
 Built a To-Do App in Flutter with full CRUD functionality using REST API. Users can create, update, delete, and view tasks in real-time. State management is handled with the Provider, and a clean, responsive UI is implemented using Flutter widgets. This project enhanced my skills in API integration and state handling. 
 
 ### Recipe Finder `REST API`
